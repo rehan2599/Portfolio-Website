@@ -4,7 +4,7 @@ date: 2023-07-19
 draft: false
 ---
 
-# John Doe
+# Rehan Khan
 Computer Science Student | Northeastern University  
 
 ## Education
