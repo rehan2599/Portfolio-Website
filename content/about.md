@@ -10,7 +10,7 @@ Passionate about exploring new technologies and leveraging them to solve real-li
 
 Open to collaborations and opportunities. Let's connect.
 - **Email:** [khan.reh@northeastern.edu](mailto:khan.reh@northeastern.edu)
-- **GitHub:** [khan-rehan](https://github.com/khan-rehan) & [rehan2599](https://github.com/rehan2599)
+- **GitHub:** [rehan2599](https://github.com/rehan2599)
 
 ### Technical Skills
 
